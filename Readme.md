@@ -175,9 +175,11 @@ This dashboard was built entirely in Google Sheets using:
 
 **KPI Scorecards**
 
-* Total Deliveries
+* Delivery Mode Distribution of C-Section
 
-* Preterm Rate
+* Avg Depression
+
+* Avg BirthWeight
 
 * NICU Rate
 
@@ -198,6 +200,10 @@ This dashboard was built entirely in Google Sheets using:
 * Pandemic Stress Distribution
 
 **Filters**
+
+* NICU Stay
+
+* Preterm
 
 * Age Category
 
@@ -266,6 +272,7 @@ The analysis highlights:
 * Demographic and socioeconomic variation in outcomes
 
 The Google Sheets dashboard enables dynamic exploration of these patterns and supports data-informed maternal healthcare decision-making.
+
 
 
 
