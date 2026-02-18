@@ -155,7 +155,9 @@ This highlights socioeconomic variation in maternal mental health.
 
 ## **6. Dashboard Structure 📊**
 
-The dashboard was built entirely in Google Sheets using:
+![Dashboard](Dashboard/Dashboard.png)
+
+This dashboard was built entirely in Google Sheets using:
 
 * Pivot Tables
 
@@ -260,6 +262,7 @@ The analysis highlights:
 * Demographic and socioeconomic variation in outcomes
 
 The Google Sheets dashboard enables dynamic exploration of these patterns and supports data-informed maternal healthcare decision-making.
+
 
 
 
