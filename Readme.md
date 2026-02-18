@@ -9,7 +9,7 @@
 
 ---
 
-## **1️⃣ Project Overview**
+## **1️. Project Overview**
 
 This project analyzes survey-based data from the *Pregnancy during the COVID-19 Pandemic (PdP)* study conducted in Canada to examine maternal mental health and neonatal outcomes during COVID-19.
 
@@ -260,4 +260,5 @@ The analysis highlights:
 * Demographic and socioeconomic variation in outcomes
 
 The Google Sheets dashboard enables dynamic exploration of these patterns and supports data-informed maternal healthcare decision-making.
+
 
