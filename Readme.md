@@ -191,13 +191,14 @@ This dashboard was built entirely in Google Sheets using:
 
 * Preterm Distribution by Age Category
 
-* NICU by Delivery Mode
+* Income Group Distribution
+
+* Maternal Education by Income group
 
 * Depression Severity by Income
 
 * Mental Health by Education
 
-* Pandemic Stress Distribution
 
 **Filters**
 
@@ -225,7 +226,7 @@ The slicers dynamically update KPIs and charts.
 
 * Maternal age shows a U-shaped pattern in preterm distribution.
 
-* Lower income groups show higher severe depression prevalence.
+* Lower-income groups show higher severe depression prevalence.
 
 * C-Section deliveries have higher NICU admission rates.
 
@@ -272,6 +273,7 @@ The analysis highlights:
 * Demographic and socioeconomic variation in outcomes
 
 The Google Sheets dashboard enables dynamic exploration of these patterns and supports data-informed maternal healthcare decision-making.
+
 
 
 
