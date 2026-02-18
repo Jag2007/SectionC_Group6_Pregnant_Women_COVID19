@@ -9,7 +9,7 @@
 
 ---
 
-## **1️. Project Overview**
+## **1. Project Overview**
 
 This project analyzes survey-based data from the *Pregnancy during the COVID-19 Pandemic (PdP)* study conducted in Canada to examine maternal mental health and neonatal outcomes during COVID-19.
 
@@ -27,7 +27,7 @@ This project focuses on descriptive and dashboard-based analytics.
 
 ---
 
-## **2️⃣ Dataset Description**
+## **2. Dataset Description**
 
 **Source:** Pregnancy during the COVID-19 Pandemic (PdP) Study  
  **Country:** Canada
@@ -51,7 +51,7 @@ This project focuses on descriptive and dashboard-based analytics.
 
 ---
 
-## **3️⃣ Data Cleaning & Preparation**
+## **3. Data Cleaning & Preparation**
 
 ### **Cleaning Steps Performed**
 
@@ -77,7 +77,7 @@ This project focuses on descriptive and dashboard-based analytics.
 
 ---
 
-## **4️⃣ Key KPIs (From Dashboard)**
+## **4. Key KPIs (From Dashboard)**
 
 | KPI | Value |
 | ----- | ----- |
@@ -95,7 +95,7 @@ These KPIs provide a high-level overview of maternal mental health levels and ne
 
 ---
 
-## **5️⃣ Exploratory Data Analysis Summary**
+## **5. Exploratory Data Analysis Summary**
 
 ### **Mental Health Overview**
 
@@ -153,7 +153,7 @@ This highlights socioeconomic variation in maternal mental health.
 
 ---
 
-## **6️⃣ Dashboard Structure 📊**
+## **6. Dashboard Structure 📊**
 
 The dashboard was built entirely in Google Sheets using:
 
@@ -205,7 +205,7 @@ The slicers dynamically update KPIs and charts.
 
 ---
 
-## **7️⃣ Key Insights 💡**
+## **7. Key Insights 💡**
 
 * Anxiety and pandemic stress levels were elevated across the study population.
 
@@ -221,7 +221,7 @@ The slicers dynamically update KPIs and charts.
 
 ---
 
-## **8️⃣ Recommendations**
+## **8. Recommendations**
 
 * Implement routine EPDS and Anxiety screening during prenatal visits.
 
@@ -235,7 +235,7 @@ The slicers dynamically update KPIs and charts.
 
 ---
 
-## **9️⃣ Limitations**
+## **9. Limitations**
 
 * High data attrition due to removal of "UNKNOWN" entries.
 
@@ -260,5 +260,6 @@ The analysis highlights:
 * Demographic and socioeconomic variation in outcomes
 
 The Google Sheets dashboard enables dynamic exploration of these patterns and supports data-informed maternal healthcare decision-making.
+
 
 
