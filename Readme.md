@@ -55,6 +55,10 @@ This project focuses on descriptive and dashboard-based analytics.
 
 ### **Cleaning Steps Performed**
 
+* Raw Dataset: ~10,773  records × 15 columns
+  
+* Cleaned Dataset: 5,389 records × 20 columns (after removing unknowns and incomplete records)
+  
 * Rows containing `"UNKNOWN"` values were filtered out.
 
 * Missing numeric values (where applicable) were replaced using median or mode logic.
@@ -262,6 +266,7 @@ The analysis highlights:
 * Demographic and socioeconomic variation in outcomes
 
 The Google Sheets dashboard enables dynamic exploration of these patterns and supports data-informed maternal healthcare decision-making.
+
 
 
 
