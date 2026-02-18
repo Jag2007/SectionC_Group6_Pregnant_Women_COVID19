@@ -1,0 +1,38 @@
+,,,,,,,,,,,,
+PIVOT TABLES,,,,,,,,,,KPI VALUES,,
+,,,,,,,,,,,,
+COUNTA of NICU_Stay,Delivery_Mode,,,,,,,,,,,AVERAGE of Maternal Pandemic Stress
+Income_Group,Caesarean-section (c-section),Vaginally,Grand Total,,,,,,,,,51.5421121
+High,29.94%,70.06%,100.00%,,,,,,,,,
+Low,29.05%,70.95%,100.00%,,,,,,,,,
+Middle,29.24%,70.76%,100.00%,,,,,,,,,AVERAGE of PROMIS_Anxiety
+Grand Total,29.43%,70.57%,100.00%,,,,,,,,,18.41907944
+,,,,,,,,,,,,
+AVERAGE of Edinburgh_Postnatal_Depression_Scale,Income_Group,,,,,,,,,,,
+Maternal_Education,High,Low,Middle,Grand Total,,,,,,,,COUNTA of Delivery_Mode
+College/trade school,10.36875,11.59677419,10.72195893,10.91659112,,,,,,,,5388
+Doctoral Degree,8.585760518,8.615384615,8.846938776,8.683615819,,,,,,,,
+High school diploma,10.05714286,12.1440678,10.90298507,11.31010453,,,,,,,,COUNTA of Preterm
+Less than high school diploma,2,13.375,10.11111111,11.80769231,,,,,,,,305
+Masters degree,8.60483871,10.56122449,8.899173554,8.913261051,,,,,,,,
+Undergraduate degree,8.827195467,10.8754717,9.849720224,9.647164716,,,,,,,,COUNTA of NICU_Stay
+Grand Total,8.884592853,11.26410564,9.822842999,9.748137109,,,,,,,,525
+,,,,,,,,,,,,
+AVERAGE of birth_weight,Maternal_Age_Group,,,,,,,,,,,AVERAGE of Edinburgh_Postnatal_Depression_Scale
+Preterm,Adult,High Risk,Young,Grand Total,,,,,,,,9.749443207
+Full Term,3472.853803,3458.454346,3493.680556,3469.552637,,,,,,,,
+Preterm,2509.990244,2534.2,2466.5,2515.708197,,,,,,,,AVERAGE of birth_weight
+Grand Total,3420.28735,3401.440713,3426.980519,3415.35693,,,,,,,,3415.00631
+,,,,,,,,,,,,
+AVERAGE of Threaten_Baby_Harm,Income_Group,,,,,,,,,,,
+Depression_Severity,High,Low,Middle,Grand Total,,,,,,,, SLICERS
+Minimal,52.72039474,47.57309942,53.08104575,52.32901554,,,,,,,,
+Moderate,62.45415318,65.31134021,65.17010006,64.3828351,,,,,,,,
+Severe,73.30232558,73.29378531,72.48626374,72.88359046,,,,,,,,
+Grand Total,60.08025776,63.36614646,62.84158416,62.04489568,,,,,,,,
+,,,,,,,,,,,,
+Income_Group,AVERAGE of Maternal Pandemic Stress,,,,,,,,,,,
+High,49.51239067,,,,,,,,,,,
+Low,54.18572282,,,,,,,,,,,
+Middle,51.98931594,,,,,,,,,,,
+Grand Total,51.5421121,,,,,,,,,,,
